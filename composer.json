@@ -1,5 +1,5 @@
 {
-	"name": "lelesys/plugin-googleanalytics",
+	"name": "lelesys/plugin-google-analytics",
 	"description": "A google analytics plugin to measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.",
 	"license": "LGPL-3.0+",
 	"type": "typo3-flow-plugin",
